@@ -1,0 +1,31 @@
+ body {
+background-color: pink;
+font-family: Arial, sans-serif;
+margin: 10;
+padding: 5;
+ }
+nav {
+background-color: #333;
+color: #fff;
+text-align: left;
+padding: 5px 2%;
+margin: -10px;
+}
+nav a {
+color: #fff;
+text-decoration: none;
+margin: 5 15px;
+ }
+a:hover{
+text-decoration: underline;
+ color: pink;
+}
+section {
+padding: 20px;
+margin: 30px;
+}
+ h2 {
+color: #333;
+ }
+
+  
